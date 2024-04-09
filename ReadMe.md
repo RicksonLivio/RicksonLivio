@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Atualmente trabalho na Tecla T como<br>      Engenheiro de dados Pleno<br>👨🏻‍💻 Sempre procuro novos desafios e ampliar meu<br>      conhecimento, principalmente com tecnologias<br>      inovadoras<br>💬 Vamos trocar conhecimento sobre <br>      Data Science/Engineering
+🤖 Atualmente trabalho na Sólides como<br>      Cientista de dados Pleno<br>👨🏻‍💻 Sempre procuro novos desafios e ampliar meu<br>      conhecimento, principalmente com tecnologias<br>      inovadoras<br>💬 Vamos trocar conhecimento sobre <br>      Data Science/Engineering
 
 
 ## 🌐 Socials:
