@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 Currently working as a **Senior Data Scientist**, passionate about delivering AI-driven solutions at scale.  
-🤖 Focused on **AI Agents**,**LLM's**,**machine learning**, **time series forecasting**, **NLP**, **computer vision**, and **big data processing**.  
+🤖 Focused on **AI Agents**, **LLM's**, **machine learning**, **time series forecasting**, **NLP**, **computer vision**, and **big data processing**.  
 🌱 Always seeking new challenges and opportunities to grow, especially with cutting-edge technologies.  
 💬 Let’s connect and exchange ideas on **Data Science**, **Machine Learning**, and **Data Engineering**.
 
