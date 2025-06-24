@@ -1,38 +1,8 @@
 # 💫 About Me:
-[cite_start]I'm Rickson Livio, a Senior Data Scientist with a passion for leveraging technological trends in data science and engineering to drive impactful solutions. [cite_start]My career has seen exponential growth, developing extensive expertise with data and its core tools and programming languages. I'm always seeking new challenges and opportunities to expand my knowledge, particularly with innovative technologies. Let's connect and exchange knowledge on Data Science/Engineering!
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickson-livio/) 
-
-## 💼 Experience:
-
-### Senior Data Scientist @ Cognitivo.AI (Jul 2024 - Present)
-* Developing sales demand prediction models for Petz Group products and stores to optimize distribution center supply. [cite_start]I utilize time series models like Prophet and ARIMA, alongside PySpark and Databricks, with Snowflake as the data warehouse.
-
-### Senior Data and ML Engineer @ Badaró (Oct 2024 - Jan 2025)
-* [cite_start]Performed fine-tuning of the Gemini model (Google) for classifying user comments from Globo, with an automated pipeline in GCP, using VertexAI and Docker for application containerization with Cloud Run for daily processing.
-
-### Full Data Scientist @ Sólides Tecnologia (Apr 2023 - Jul 2024)
-* Executed ETL processes, consuming data from PostgreSQL and MySQL databases using Psycopg2, and integrating data from APIs using requests. [cite_start]This data was then related and tables were made available on Google Cloud Platform.
-* Developed a customer churn prediction model using survival analysis with the `pysurvival` library. [cite_start]Collaborated with the MLOps team for model deployment in a Docker container cluster and made a Streamlit application available.
-* [cite_start]Created a virtual assistant using the OpenAI API (ChatGPT as LLM), enhancing it with persona and prompt engineering, and then integrated it into the company website.
-* Currently developing a facial analysis model using OpenCV and deep learning with TensorFlow and Keras, alongside a speech analysis model using NLP with SpaCy. [cite_start]These models generate personality and communication analysis reports for HR.
-
-### Full Data Engineer @ Tecla T (Mar 2022 - Feb 2023)
-* Translated business problems into ETL processes for Grupo Mateus using Python and SQL, adapting Stored Procedure SQL maintenance. [cite_start]Leveraged Databricks with PySpark for large datasets (80 billion rows), Docker for containerization, and Microsoft Azure for storing and making final tables available to the business team.
-* [cite_start]Performed ETL processes in Hapvida Group databases, using SQL in SQL Server and Oracle to create tables for dashboards and modeling.
-* Developed a schedule optimization model for doctors using `pyworkforce` and a group revenue prediction model with time series using `statsmodels`. [cite_start]Model results were made available through Power BI dashboards.
-
-### Data Scientist @ Conjecto.AI (Aug 2021 - Feb 2022)
-* [cite_start]Consumed data from PostgreSQL databases on AWS and Google Calendar APIs for data analysis and KPI generation for Iguatemi shopping mall, making analyses available in Power BI.
-* [cite_start]Developed a revenue prediction model for Shopping Iguatemi and its store owners using time series with Statsmodels and Prophet.
-* [cite_start]Implemented an outlier detection model to identify potential fraud using Gaussian Mixture and Isolation Forest.
-
-### Data Scientist I @ Somapay (Feb 2020 - Aug 2021)
-* [cite_start]Restructured Somapay's database by migrating data from MySQL to PostgreSQL on AWS.
-* [cite_start]Conducted hypothesis tests (A/B testing) to validate products for the marketing team.
-* [cite_start]Developed a credit provision model using survival analysis to predict customer payment time after credit provision.
-
+🚀 Currently working as a **Senior Data Scientist**, passionate about delivering AI-driven solutions at scale.  
+🤖 Focused on **AI Agents**, **LLM's**, **machine learning**, **time series forecasting**, **NLP**, **computer vision**, and **big data processing**.  
+🌱 Always seeking new challenges and opportunities to grow, especially with cutting-edge technologies.  
+💬 Let’s connect and exchange ideas on **Data Science**, **Machine Learning**, and **Data Engineering**.
 ## 💻 Tech Stack:
 
 ### Programming Languages:
@@ -84,14 +54,14 @@
 
 ## 🎓 Education & Certifications:
 
-* [cite_start]**Master's Degree in Computer Science applied to AI** - Federal Institute of Ceará (Mar 2025 - Mar 2027) 
-* [cite_start]**Bachelor's Degree in Statistics** - Federal University of Ceará (Mar 2017 - Mar 2023) 
+* **Master's Degree in Computer Science applied to AI** - Federal Institute of Ceará (Mar 2025 - Mar 2027) 
+* **Bachelor's Degree in Statistics** - Federal University of Ceará (Mar 2017 - Mar 2023) 
 
 * **Certificates:**
-    * [cite_start]Computer Vision: facial analysis 
-    * [cite_start]Data Warehouse - Snowflake 
-    * [cite_start]Machine Learning Solutions on Vertex AI 
-    * [cite_start]EF SET English Certificate (C1 Advanced)
+    * Computer Vision: facial analysis 
+    * Data Warehouse - Snowflake 
+    * Machine Learning Solutions on Vertex AI 
+    * EF SET English Certificate (C1 Advanced)
 
 # 🏆 Recent Highlights:
 - 📈 Built multi-time-series forecasting models (Prophet/ARIMA + PySpark) for store-level demand prediction at Petz (Cognitivo.AI).
