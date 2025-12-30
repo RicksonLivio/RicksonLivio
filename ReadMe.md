@@ -69,3 +69,5 @@
 - 📈 Built multi-time-series forecasting models (Prophet/ARIMA + PySpark) for store-level demand prediction at Petz (Cognitivo.AI).
 - 🤖 Fine-tuned large language models (Gemini, OpenAI) for NLP and assistant development with GraphRAG, Neo4j, and Qdrant.
 - ⚙️ Designed ETL and AI pipelines on Databricks, Snowflake, and GCP with full MLOps integration.
+
+[![Codewars](https://www.codewars.com/users/RicksonLivio/badges/large)](https://www.codewars.com/users/RicksonLivio)
