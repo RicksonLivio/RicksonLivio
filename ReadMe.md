@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/rickson-livio/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:rickson.gaspar@outlook.com"><img src="https://img.shields.io/badge/Email_me-0E1B2C?style=for-the-badge&logo=microsoftoutlook&logoColor=D9B75F" alt="Email"/></a>
 <a href="https://www.codewars.com/users/RicksonLivio"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
-<img src="https://komarev.com/ghpvc/?username=RicksonLivio&label=Profile+views&color=1F7A4D&style=for-the-badge" alt="views"/>
+<a href="https://github.com/RicksonLivio"><img src="https://hits.sh/github.com/RicksonLivio.svg?style=for-the-badge&label=Profile+views&color=1F7A4D&labelColor=0E1B2C" alt="Profile views"/></a>
 
 </div>
 
