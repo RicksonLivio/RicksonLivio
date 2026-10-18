@@ -48,16 +48,20 @@ jobs:
           plugin_isocalendar_duration: full-year
 
   snake:
-    name: Snake animation
+    name: Snake animation (grows when it eats)
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.METRICS_TOKEN || github.token }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          python-version: "3.12"
+
+      - name: Build the snake
+        run: python gen_snake.py
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}   # PAT -> includes private contributions
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
