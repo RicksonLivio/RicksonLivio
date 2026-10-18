@@ -1,8 +1,6 @@
 <!-- ============ ANIMATED HEADER (navy -> emerald -> gold, same palette as the CV) ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0E1B2C,50:1F7A4D,100:B8923A&text=Rickson%20Livio&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Staff%20AI%20%26%20MLOps%20Engineer&descAlignY=60&descSize=22" alt="header"/>
-
 <a href="https://github.com/RicksonLivio">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=720&height=45&lines=Staff+AI+%26+MLOps+Engineer+%40+Nuvidio;Building+AI+Agents+%26+LLM+pipelines;Deepfake+%26+Spoofing+detection+models;GPU-optimized+inference+with+CUDA+%2B+ONNX;Data+lakes+%E2%86%92+CI%2FCD+for+ML+%E2%86%92+production;Always+learning.+Dog+dad+%F0%9F%90%B6" alt="typing animation"/>
 </a>
@@ -176,12 +174,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RicksonLivio&show_icons=true&hide_border=true&bg_color=0E1B2C&title_color=D9B75F&icon_color=2EA043&text_color=E6EDF3&ring_color=2EA043" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicksonLivio&layout=compact&hide_border=true&bg_color=0E1B2C&title_color=D9B75F&text_color=E6EDF3" alt="top languages"/>
+<img src="./github-metrics.svg" alt="GitHub metrics"/>
 
 <img src="https://streak-stats.demolab.com?user=RicksonLivio&hide_border=true&background=0E1B2C&ring=2EA043&fire=D9B75F&currStreakLabel=D9B75F&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RicksonLivio&bg_color=0E1B2C&color=2EA043&line=D9B75F&point=FFFFFF&area=true&area_color=1F7A4D&hide_border=true" alt="activity graph"/>
+<img src="./github-metrics-calendar.svg" alt="Contribution calendar"/>
 
 </div>
 
